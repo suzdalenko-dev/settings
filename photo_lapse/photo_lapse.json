@@ -1,0 +1,6 @@
+{
+    "app_name": "photo_lapse",
+    "camera_frequency": 1800000,   
+    "update_frequency": 322,
+    "coment": "1800000 => 30 minute, 322 => 5 minutes"
+}
