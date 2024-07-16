@@ -1,5 +1,5 @@
 {
-    "app_name": "photo_lapse",
+    "use_settings": "true",
     "camera_frequency": 3601,   
     "update_frequency": 100,
     "log": "true",
