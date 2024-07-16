@@ -1,6 +1,6 @@
 {
     "app_name": "photo_lapse",
-    "camera_frequency": 12000,   
+    "camera_frequency": 1,   
     "update_frequency": 322,
     "coment": "1200 => 20 minutes camera trigerring, 322 => 5 minutes upload files to server"
 }
