@@ -2,7 +2,5 @@
     "app_name": "photo_lapse",
     "camera_frequency": 1200,   
     "update_frequency": 322,
-    "email": "froxa",
-    "log": true,
-    "coment": "1800000 => 30 minutes, 322 => 5 minutes"
+    "coment": "1200 => 20 minutes camera trigerring, 322 => 5 minutes upload files to server"
 }
