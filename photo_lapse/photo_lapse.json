@@ -1,5 +1,5 @@
 {
-    "use_settings": "true",
+    "use_settings": "true x",
     "camera_frequency": 12000000,   
     "update_frequency": 100,
     "log": "true",
