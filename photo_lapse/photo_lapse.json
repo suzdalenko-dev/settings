@@ -1,6 +1,6 @@
 {
     "app_name": "photo_lapse",
-    "camera_frequency": 1200000,   
+    "camera_frequency": 1200,   
     "update_frequency": 322,
     "email": "froxa",
     "log": true,
