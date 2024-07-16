@@ -1,6 +1,6 @@
 {
     "use_settings": "true",
-    "camera_frequency": 12,   
+    "camera_frequency": 12000000,   
     "update_frequency": 100,
     "log": "true",
     "coment": "1200 => 20 minutes camera trigerring, 322 => 5 minutes upload files to server"
