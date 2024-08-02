@@ -1,0 +1,44 @@
+{
+    "radioStations": [
+      {
+        "name": "Cadena SER",
+        "url": "https://streaming.cadenaser.com/audioplayer"
+      },
+      {
+        "name": "Los 40 Principales",
+        "url": "https://streaming.cadenaser.com/audioplayer"
+      },
+      {
+        "name": "Onda Cero",
+        "url": "https://live.ondacero.es/streaming/ondacero.mp3"
+      },
+      {
+        "name": "Radio Nacional de España - Radio 1",
+        "url": "http://rtve-live-streaming-0.radio.tvb.int/stream1"
+      },
+      {
+        "name": "Radio Marca",
+        "url": "https://radiomarca.ondacero.es/streaming/radiomarca.mp3"
+      },
+      {
+        "name": "Cadena COPE",
+        "url": "https://net1-cope-rrcast.flumotion.com/cope/net1.mp3"
+      },
+      {
+        "name": "Radio Clásica",
+        "url": "http://streaming.rtve.es/rtve/radio-clasica.mp3"
+      },
+      {
+        "name": "Radio 3",
+        "url": "http://streaming.rtve.es/rtve/radio-3.mp3"
+      },
+      {
+        "name": "Radio Euskadi",
+        "url": "https://live.radioeuskadi.eus/streaming/radioeuskadi.mp3"
+      },
+      {
+        "name": "Ràdio Catalunya",
+        "url": "http://streaming.radio.cat:8000/radio.cat.mp3"
+      }
+    ]
+  }
